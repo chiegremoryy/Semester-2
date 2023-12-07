@@ -1,0 +1,11 @@
+ Jenis Tabungan: Haji
+ Nama Pemilik: Paijo
+ Alamat Pemilik: Kalimantan
+ Saldo: 250000
+---------------------------------------
+ Jenis Tabungan: Simpedes
+ Nama Pemilik: Rasno
+ Nomor Rekening: 23456
+ Alamat Pemilik: Lemper
+ Saldo: 350000
+---------------------------------------

@@ -1,0 +1,20 @@
+ Kode Buku: 001
+ Judul: Bumi
+ Penulis: Tere Liye
+ Penerbit: Gramedia
+ Tahun Terbit: 2005
+ Stok: 50
+---------------------------------------
+ Kode Buku: 002
+ Judul: Matahari
+ Penulis: Tere Liye
+ Penerbit: Gramedia
+ Tahun Terbit: 2010
+ Stok: 45
+ Kode Buku: 11
+ Judul: dddd
+ Penulis: ss
+ Penerbit: ss
+ Tahun Terbit: 1212
+ Stok: 11
+---------------------------------------

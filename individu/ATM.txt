@@ -1,0 +1,39 @@
+SKETCH PROGRAM SISTEM ATM
+CREATED BY	: MUHAMMAD ARIEF HIDAYATULLAH
+NIM		: A11.2022.14788
+KELOMPOK	: A11.4219
+DATE		: 12 Juni 2023
+	
+    prosedur - > tampilMenu() {
+        cout << "|>>>>>>>>>>>>>>> PILIHAN MENU : <<<<<<<<<<<<<<<|" << endl;
+        cout << "|=======    1. Tarik Tunai              =======|" << endl;
+        cout << "|=======    2. Setor Tunai              =======|" << endl;
+        cout << "|=======    3. Tampil Saldo             =======|" << endl;
+        cout << "|=======    4. Transfer Saldo           =======|" << endl;
+        cout << "|=======    5. Mutasi Saldo             =======|" << endl;
+        cout << "|=======    6. Cari Transaksi           =======|" << endl;
+        cout << "|=======    7. Exit Program             =======|" << endl;
+        cout << "|>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<|" << endl;
+
+class tabungan 
+
+	tambah tabungan (Form Input) -> jenis tabungan, nama pemilik tabungan, nomor rekening, alamat pemilik, setoran awal -> notification validation
+	tambah saldo (Form Input) -> nomor rekening, saldo awal, nominal saldo yang ingin ditambahkan -> notification validation
+	tarik saldo (Form Input) -> nomor rekening, saldo awal, nominal saldo yang ingin ditarik tunai -> notification validation
+	mutasi tabungan -> nomor rekening, waktu (c.stream), saldo yang ditarik tunai
+	tampil daftar tabungan (jenis tabungan, nama pemilik tabungan, nomor rekening, alamat pemilik, saldo tabungan)
+	delete (Tampil daftar tabungan -> pilih nomor rekening -> delete -> notification validation)
+
+class atm 
+	menu utama (opsi 1-8)
+
+KAMUS GLOBAL
+jenis : simpedes, simpedes tki, britama, britama bisnis, britama x, haji
+nama
+norek
+alamat
+setor_awal
+
+waktu
+saldotarik
+saldoakhir

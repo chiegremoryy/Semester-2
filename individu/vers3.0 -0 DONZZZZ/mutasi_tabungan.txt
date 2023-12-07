@@ -1,0 +1,45 @@
+
+ Tanggal: 2023-06-22 13:10:44
+ Keterangan:  Setor Tunai 
+ Jumlah: 1000
+---------------------------------------
+ Tanggal: 2023-06-22 13:11:12
+ Keterangan:  Tarik Tunai 
+ Jumlah: 10
+---------------------------------------
+ Tanggal: 2023-06-22 13:11:55
+ Keterangan:  Transfer Saldo 
+ Jumlah: 50
+---------------------------------------
+ Tanggal: 2023-06-22 13:24:21
+ Keterangan:  Setor Tunai 
+ Jumlah: 400
+---------------------------------------
+ Tanggal: 2023-06-22 13:24:43
+ Keterangan:  Tarik Tunai 
+ Jumlah: 25
+---------------------------------------
+ Tanggal: 2023-06-22 13:24:56
+ Keterangan:  Transfer Saldo 
+ Jumlah: 25
+---------------------------------------
+ Tanggal: 2023-06-22 13:37:53
+ Keterangan:  Setor Tunai 
+ Jumlah: 5000
+---------------------------------------
+ Tanggal: 2023-06-22 13:42:10
+ Keterangan:  Tarik Tunai 
+ Jumlah: 50
+---------------------------------------
+ Tanggal: 2023-06-26 21:09:31
+ Keterangan:  Setor Tunai 
+ Jumlah: 10000
+---------------------------------------
+ Tanggal: 2023-06-26 21:09:46
+ Keterangan:  Tarik Tunai 
+ Jumlah: 1000
+---------------------------------------
+ Tanggal: 2023-06-26 21:10:49
+ Keterangan:  Transfer Saldo 
+ Jumlah: 500
+---------------------------------------

@@ -1,0 +1,14 @@
+Kode Buku: S02
+Judul: HHDH
+Penulis: HIDHAS
+Penerbit: ASJDUISDH
+Tahun Terbit: 9999
+Stok: 80
+---------------------------------------
+Kode Buku: 001
+Judul: Kiw
+Penulis: ak
+Penerbit: Wuw
+Tahun Terbit: 2000
+Stok: 50
+---------------------------------------

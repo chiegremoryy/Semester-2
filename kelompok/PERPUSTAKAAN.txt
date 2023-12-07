@@ -1,0 +1,46 @@
+PERPUSTAKAAN
+
+	1. Input data buku
+	2. Tampilkan daftar buku
+	3. Edit data buku
+	4. Sorting (tahun terbit)
+	5. Searching (nama buku)
+	6. Delete data buku
+	7. Peminjaman buku
+	8. Pengembalian buku
+	9. Hitung denda
+	10. Exit program
+
+class buku 
+	input (Form Input) -> nama buku, kd buku, penulis, penerbit, tahun terbit, stok -> notification validation
+	edit (Tampil daftar buku -> pilih kd buku -> edit -> Form edit -> simpan data -> notification validation)
+	delete (Tampil daftar buku -> pilih kd buku -> delete -> notification validation)
+	tampil daftar buku ( Tabel buku )
+
+class perpustakaan
+	Menu utama (yang diatas ya)
+	peminjaman (Nama_pmnjm, no_ktp, judul_buku, penulis, penerbit, qty, tanggal_pnjm, durasi_pnjm)
+	pengembalian (Nama_pmnjm, no_ktp, judul_buku, penulis, penerbit, qty, tanggal_pnjm, tanggal_kmbli, durasi_pnjm
+	hitung denda
+
+KURANG DARI DURASI PINJAM
+tanggal pinjam  : 20/06/2023 
+tanggal kembali : 24/06/2023
+durasi pinjam   : 27/06/2023
+
+TEPAT WAKTU DARI DURASI PINJAM
+tanggal pinjam  : 20/06/2023 
+tanggal kembali : 27/06/2023
+durasi pinjam   : 27/06/2023
+
+LEBIH DARI DURASI PINJAM
+tanggal pinjam  : 20/06/2023 
+tanggal kembali : 30/06/2023
+durasi pinjam   : 27/06/2023
+
+tempo_hari -> (tgl_kmbli-tgl_pinjam) - durasi pinjam
+
+if (tempo_hari <= 0)
+	denda = 0
+else if (tempo_hari > 0)
+	denda = 500 * tempo_hari
